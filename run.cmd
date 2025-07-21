@@ -2,8 +2,8 @@
 
 cd V3
 cd _project
-IF EXIST "Main_8.jar" (
+IF EXIST "Zombies_in_Z_Building.jar" (
     echo [Jyph] Running...
     echo --------------------
-    java.exe -jar Main_8.jar
+    java.exe -jar Zombies_in_Z_Building.jar
 )

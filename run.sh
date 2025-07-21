@@ -1,9 +1,9 @@
 
 cd V3
 cd _project
-if [ -f "Main_8.jar" ]; then
+if [ -f "Zombies_in_Z_Building.jar" ]; then
     echo "[Jyph] Running..."
     echo "--------------------"
     
-    java -jar Main_8.jar
+    java -jar Zombies_in_Z_Building.jar
 fi

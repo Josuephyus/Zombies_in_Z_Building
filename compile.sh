@@ -9,7 +9,7 @@ src="____src"
 res="___resources"
 build="__build"
 proj="_project"
-output="$proj/Main"
+output="$proj/Zombies_in_Z_Building"
 
 source "compileJava.sh"
 cd ..
